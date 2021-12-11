@@ -21,7 +21,7 @@ In conclusion, ETL is used to easily access the data, modify, and add to the inp
 ***********************************
 Data Limitations
 -----------------------------------
-Some of the data limitations that we faced for this specific project included the fact that the nine (9) total CSV files would take a long time to upload. Once every dataset was imported into MongoDB, pushing the data back into Jupyter to make some further analysis would take about 30 minutes, even more at times. Other times, it would cause the computer to crash. Total, there were about 4.2 million inputs form all 9 datasets, therefore, it would take longer for any data that has more than what was uploaded in this project. Another data limitation that we would consider for this specific project would be the inconsistencies in each of the inputs. For example, there would be a day that does not have any inputs for 20 minutes total, and the next has trades for each minute of the day. Depending on the analysis that is being done, this could negatively affect the data. 
+Some of the data limitations that we faced for this specific project included the fact that the nine (9) total CSV files would take a long time to upload. Once every dataset was imported into MongoDB, pushing the data back into Jupyter to make some further analysis would take about 30 minutes, even more at times. Other times, it would cause the computer to crash. Total, there were about 4.2 million inputs from all 9 datasets, therefore, it would take longer for any data that has more than what was uploaded in this project. Another data limitation that we would consider for this specific project would be the inconsistencies in each of the inputs. For example, there would be a day that does not have any inputs for 20 minutes total, and the next has trades for each minute of the day. Depending on the analysis that is being done, this could negatively affect the data. 
 
 Some way to fix these problems is simply allow room for error. By displaying the analysis in a box and whisker plot, the diagram would give us a better idea as to what exactly we may be looking for. Another way to fix this issue would be to simply further clean the data and create different tables for each question that is being asked. Although it may take longer to code, it would not take as much time to be pushed back into Jupyter once uploaded onto MongoDB. Overall, however, the analysis can be done.
 
@@ -61,11 +61,14 @@ Ethereum CSV Files:
 Below are the slides for the data presentation:
 
 
-![Slide1](https://user-images.githubusercontent.com/72631173/145684091-d43680ff-4678-4929-9e0b-e5918c825c39.png)
-![Slide2](https://user-images.githubusercontent.com/72631173/145684099-e09cdb1e-f992-46bd-b10d-e6df8d8cb012.png)
-![Slide3](https://user-images.githubusercontent.com/72631173/145684110-d946f24f-6dce-46d4-8155-6ea53bbe12a4.png)
-![Slide4](https://user-images.githubusercontent.com/72631173/145684117-c835063e-91b4-4cc7-88c5-7e3f3ab55ecf.png)
-![Slide5](https://user-images.githubusercontent.com/72631173/145684123-a7e22b5e-30e7-43fd-a3f0-ea090f05e031.png)
-![Slide6](https://user-images.githubusercontent.com/72631173/145684129-7d07abc5-c2ea-41cb-bab8-4a447a994bdd.png)
-![Slide7](https://user-images.githubusercontent.com/72631173/145684135-7e3454df-c52a-4dcb-849c-ff1e302b899b.png)
-![Slide8](https://user-images.githubusercontent.com/72631173/145684142-94efdab2-e05f-4706-a7ad-02ade82335db.png)
+![Slide1](https://user-images.githubusercontent.com/72631173/145691681-f58b0f05-2640-47a9-8135-ce48baf17b7c.png)
+![Slide2](https://user-images.githubusercontent.com/72631173/145691690-4bd30944-ab20-477e-a9d4-36552b39460c.png)
+![Slide3](https://user-images.githubusercontent.com/72631173/145691693-a58eb24b-5c56-439e-a325-64f06d334959.png)
+![Slide4](https://user-images.githubusercontent.com/72631173/145691696-01c3c601-c134-48c3-90a0-1f483ad5a0c7.png)
+![Slide5](https://user-images.githubusercontent.com/72631173/145691703-24dcd636-fc13-4c27-b479-b57e7a144b04.png)
+![Slide6](https://user-images.githubusercontent.com/72631173/145691710-dea8e7ed-85cc-44a4-a440-940432d7304f.png)
+![Slide7](https://user-images.githubusercontent.com/72631173/145691713-1407c283-45e6-46c7-9ff7-c386b42a1099.png)
+![Slide8](https://user-images.githubusercontent.com/72631173/145691718-0608e674-2e3b-436b-9e60-e63a50c7e486.png)
+![Slide9](https://user-images.githubusercontent.com/72631173/145691719-76f182a4-ce80-4692-a09c-05caa500a342.png)
+![Slide10](https://user-images.githubusercontent.com/72631173/145691725-193cc6af-bc4a-4d3f-868f-f6d9270894a3.png)
+![Slide11](https://user-images.githubusercontent.com/72631173/145691729-cb7f6d3c-49e7-4a00-8342-b4206907270a.png)
