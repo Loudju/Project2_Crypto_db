@@ -33,6 +33,7 @@ Some way to fix these problems is simply allow room for error. By displaying the
 Utilized Data Files:
 -----------------------------------
 Bitcoin CSV Files:
+
 •https://www.kaggle.com/yamqwe/cryptocurrency-extra-data-bitcoin?select=full_data__1__2019.csv
 
 •https://www.kaggle.com/yamqwe/cryptocurrency-extra-data-bitcoin?select=full_data__1__2020.csv
@@ -40,6 +41,7 @@ Bitcoin CSV Files:
 •https://www.kaggle.com/yamqwe/cryptocurrency-extra-data-bitcoin?select=full_data__1__2021.csv
 
 Dogecoin CSV Files:
+
 •https://www.kaggle.com/yamqwe/cryptocurrency-extra-data-dogecoin?select=full_data__4__2019.csv
 
 •https://www.kaggle.com/yamqwe/cryptocurrency-extra-data-dogecoin?select=full_data__4__2020.csv
@@ -47,6 +49,7 @@ Dogecoin CSV Files:
 •https://www.kaggle.com/yamqwe/cryptocurrency-extra-data-dogecoin?select=full_data__4__2021.csv
 
 Ethereum CSV Files:
+
 •https://www.kaggle.com/yamqwe/cryptocurrency-extra-data-ethereum?select=full_data__6__2019.csv
 
 •https://www.kaggle.com/yamqwe/cryptocurrency-extra-data-ethereum?select=full_data__6__2020.csv
@@ -56,3 +59,13 @@ Ethereum CSV Files:
 **************************************
 
 Below are the slides for the data presentation:
+
+
+![Slide1](https://user-images.githubusercontent.com/72631173/145684091-d43680ff-4678-4929-9e0b-e5918c825c39.png)
+![Slide2](https://user-images.githubusercontent.com/72631173/145684099-e09cdb1e-f992-46bd-b10d-e6df8d8cb012.png)
+![Slide3](https://user-images.githubusercontent.com/72631173/145684110-d946f24f-6dce-46d4-8155-6ea53bbe12a4.png)
+![Slide4](https://user-images.githubusercontent.com/72631173/145684117-c835063e-91b4-4cc7-88c5-7e3f3ab55ecf.png)
+![Slide5](https://user-images.githubusercontent.com/72631173/145684123-a7e22b5e-30e7-43fd-a3f0-ea090f05e031.png)
+![Slide6](https://user-images.githubusercontent.com/72631173/145684129-7d07abc5-c2ea-41cb-bab8-4a447a994bdd.png)
+![Slide7](https://user-images.githubusercontent.com/72631173/145684135-7e3454df-c52a-4dcb-849c-ff1e302b899b.png)
+![Slide8](https://user-images.githubusercontent.com/72631173/145684142-94efdab2-e05f-4706-a7ad-02ade82335db.png)
